@@ -1,13 +1,7 @@
 !
-! Title: 1Hosts (mini)
-! Description: List for blocking pesky ads, trackers, and malware. Lenient version: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
-! Homepage: https://badmojr.github.io/1Hosts/
-! Last modified: 2023-01-29T05:05:13.405Z
+! Title: hostskids2023
 !
-! Compiled by @adguard/hostlist-compiler v1.0.12
-!
-!
-! Source name: 1Hosts (mini)
+! Source name: hostskids2023
 ! Source: https://github.com/jvcafarelli/cafawhitelistkids2023/blob/main/hostskids2023.txt
 !
 ! Title: hostskids2023
