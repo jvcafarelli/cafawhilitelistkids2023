@@ -7,7 +7,8 @@
 ! Title: hostskids2023
 
 # cafawhilitelistkids2023
-@@||net^
+||net^
+||youtube.com
 /watch*/
 @@||https://www.youtube.com/watch?v=hGonwMTPV6g
 
