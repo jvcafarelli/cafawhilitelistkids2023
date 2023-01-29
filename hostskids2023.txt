@@ -9,6 +9,7 @@
 # cafawhilitelistkids2023
 ||net^
 ||com^
+@@||"/watch?v=hGonwMTPV6g"
 ! Bloquear anuncios Youtube
 ! Youtube blacklist by Snapsz
 /^[a-z0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
