@@ -8,6 +8,7 @@
 
 # cafawhilitelistkids2023
 ||net^
+||youtube.com/watch?v=kqYLWkwrCUQ
 ||com^$denyallow=/watch?v=hGonwMTPV6g
 ! Bloquear anuncios Youtube
 ! Youtube blacklist by Snapsz
