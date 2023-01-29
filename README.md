@@ -5,3 +5,5 @@
 ||net^
 ||youtube.com^$denyallow=youtube.com/watch?v=hGonwMTPV6g
 @@||https://www.youtube.com/watch?v=hGonwMTPV6g
+!Bloquear anuncios Youtube
+/^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
