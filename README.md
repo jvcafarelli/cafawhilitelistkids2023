@@ -3,6 +3,7 @@
 ! Source name: hostskids2023
 ! Source: https://github.com/jvcafarelli/cafawhitelistkids2023/blob/main/hostskids2023.txt
 ||net^
+||youtube.com/watch?v=kqYLWkwrCUQ
 ||com^$denyallow=/watch?v=hGonwMTPV6g
 ! Bloquear anuncios Youtube
 ! Youtube blacklist by Snapsz
